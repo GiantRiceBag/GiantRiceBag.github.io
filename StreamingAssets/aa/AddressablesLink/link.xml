@@ -2,6 +2,7 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CharacterDataTableCollection" preserve="all" />
     <type fullname="CharacterEntity" preserve="all" />
+    <type fullname="CharacterSpecialActions" preserve="all" />
     <type fullname="GameProjectDataTableCollection" preserve="all" />
     <type fullname="ItemData" preserve="all" />
     <type fullname="ItemDataTableCollection" preserve="all" />
@@ -12,6 +13,7 @@
     <type fullname="ItemYokaiMax" preserve="all" />
     <type fullname="CharacterDataEntry" preserve="nothing" serialized="true" />
     <type fullname="CharacterSkillStats" preserve="nothing" serialized="true" />
+    <type fullname="CharacterSpecialActionEntry" preserve="nothing" serialized="true" />
     <type fullname="GameProjectDataEntry" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
